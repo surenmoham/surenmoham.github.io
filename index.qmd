@@ -1,5 +1,15 @@
 ---
 title: "Suren Jamal Mohammed"
+format: 
+  html:
+    theme: default
+    toc: true
+image: "Flag_of_Kurdistan.png"
+about:
+  template: jolla
+  image: "Flag_of_Kurdistan.png"
+  image-shape: round
+  image-width: 15em
 ---
 
 This is a Quarto website.
