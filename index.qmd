@@ -12,7 +12,7 @@ about:
   image-width: 15em
 ---
 
-This is a Quarto website.
+This is my wepsite. I am a Phd student at the political department of univeristy of florida.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
